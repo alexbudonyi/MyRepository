@@ -100,7 +100,7 @@ public class Tetris extends JFrame {
     class ExitAction extends AbstractAction {
 
         public ExitAction(){
-            putValue(NAME, "Exit");
+            putValue(NAME, "Go");
         }
 
         @Override
